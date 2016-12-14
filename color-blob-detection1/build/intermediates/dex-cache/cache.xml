@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/local/ANT/abnerly/StudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dbd7a72e9e609220e435693d84c71f8f5a183d6">
+        <dex dex="/home/local/ANT/abnerly/StudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9e800dff7c3f1930f958b20055b5b050acbbfce2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/local/ANT/abnerly/StudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d24701b302c41255423e78fae681a2579ceb4409">
+        <dex dex="/home/local/ANT/abnerly/StudioProjects/color-blob-detection1/openCVSamplecolorblobdetection/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_db18cf7e716b429d12f5a212464dae97c7472dc4/classes.dex" />
+    </item>
+
+</items>
